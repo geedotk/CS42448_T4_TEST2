@@ -1536,7 +1536,7 @@ AD0
 Wire Wire Line
 	5000 6350 5400 6350
 $Comp
-L Connector_Generic:Conn_02x02_Top_Bottom J5
+L Connector_Generic:Conn_02x02_Odd_Even J5
 U 1 1 60CA2107
 P 7650 7000
 F 0 "J5" V 7746 6812 50  0000 R CNN
@@ -3372,10 +3372,10 @@ F 4 "-" H 6500 7900 50  0001 C CNN "Source"
 	1    0    0    -1  
 $EndComp
 $Comp
-L CS42448_T4_TEST_symbols:Teensy4.0_28pin U?
+L CS42448_T4_TEST_symbols:Teensy4.0_28pin U4
 U 1 1 6048C8A8
 P 5500 1650
-F 0 "U?" H 5500 2517 50  0000 C CNN
+F 0 "U4" H 5500 2517 50  0000 C CNN
 F 1 "Teensy4.0_28pin" H 5500 2426 50  0000 C CNN
 F 2 "project_libs:Teensy40_28pin" H 5100 1100 50  0001 C CNN
 F 3 "https://www.pjrc.com/store/teensy40.html" H 5100 1100 50  0001 C CNN
