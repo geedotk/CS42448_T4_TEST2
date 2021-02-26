@@ -7,3 +7,5 @@ fp-info-cache
 Thumbs.db
 fp-lib-table
 sym-lib-table
+*.bck
+*.xml
