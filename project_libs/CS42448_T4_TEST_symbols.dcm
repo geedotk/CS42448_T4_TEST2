@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AudioJack3_CUI_SJ1-3525N
+D Audio Jack, Dual, 2 Poles (Mono / TS), Grounded Sleeve, Switched Pole (Normalling)
+K audio jack dual receptacle mono headphones phone TS connector
+F ~
+$ENDCMP
+#
+$CMP CS42448-CQZ
+D Interface - CODECs 6-In 8-Out CODEC 108 dB 192 kHz
+$ENDCMP
+#
+$CMP PCM1808PWG4
+D QUADRUPLE FET BUS SWITCH 2.5-V/3.3-V LOW-VOLTAGE BUS SWITCH WITH 5-V-TOLERANT LEVEL SHIFTER
+F https://www.ti.com/lit/ds/symlink/pcm1808.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1612521625354&ref_url=https%253A%252F%252Fwww.mouser.in%252F
+$ENDCMP
+#
+$CMP Teensy4.0_28pin
+D Teensy 4.0, 28 pin
+K Teensy 4.0
+$ENDCMP
+#
+#End Doc Library
